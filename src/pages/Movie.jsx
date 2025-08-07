@@ -1,12 +1,12 @@
 import React from 'react'
 import Main from '../components/section/Main'
 
-const Not = () => {
+const Movie = () => {
   return (
     <Main>
-      Not
+      Movie
     </Main>
   )
 }
 
-export default Not
+export default Movie

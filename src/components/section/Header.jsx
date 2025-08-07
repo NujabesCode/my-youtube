@@ -8,7 +8,6 @@ import Sns from '../header/Sns';
 
 const Header = () => {
 
-
   return (
     <header id='header' role='banner'>
         <Logo/>
